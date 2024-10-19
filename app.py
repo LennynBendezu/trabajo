@@ -54,7 +54,7 @@ def hello_geek():
           }
         </style>
         <div class="profile">
-            <img src="https://cdn.kibrispdr.org/data/862/user-icon-png-transparent-11.png" alt="Avatar">
+            <img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" alt="Avatar">
             <h2>Lennyn Bendezu</h2>
             <p>Correo electrónico: i2227613@continental.edu.pe</p>
             <p>Teléfono: 123456789</p>
