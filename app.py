@@ -57,8 +57,8 @@ def hello_geek():
             <img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" alt="Avatar">
             <h2>Lennyn Bendezu</h2>
             <p>Correo electrónico: i2227613@continental.edu.pe</p>
-            <p>Teléfono: 123456789</p>
-            <p>Fecha de Nacimiento: 01/01/1900</p>
+            <p>Teléfono: +51 931962609</p>
+            <p>Fecha de Nacimiento: 03/20/2005</p>
             <p>Ubicación: Huancayo, Perú</p>
         </div>
     </div>
